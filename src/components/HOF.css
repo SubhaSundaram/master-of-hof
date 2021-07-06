@@ -1,0 +1,9 @@
+.display-box {
+  color: blue;
+  height: fit-content;
+  border: 2px solid #000000;
+}
+span {
+  margin-left: 10px;
+  margin-right: 10px;
+}
